@@ -38,30 +38,10 @@ Hey there! I'm **kronset** (also known as **kronsetfx**), a passionate developer
 ## 🏆 Notable Projects
 
 ### 🚗 FiveM Resources
-- **[Project Name]** - Brief description of the project
-- **[Project Name]** - Brief description of the project
-
-### 🌐 Web Applications
-- **[Project Name]** - Brief description of the project
-- **[Project Name]** - Brief description of the project
+- **[Resonance Antycheat]** - [Website](https://resonance.kronset.xyz/)
 
 ## 📫 How to reach me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💬 Discord: kronsetfx#0000
-
-## 💼 Work Experience
-
-- **[Company/Project Name]** - Position - Year to Present
-  - Description of your role and achievements
-- **[Company/Project Name]** - Position - Year to Year
-  - Description of your role and achievements
-
-## 🎓 Education
-
-- **[Degree/Certification Name]** - Institution Name - Year
-- **[Degree/Certification Name]** - Institution Name - Year
-
----
+- 💬 Discord: @kronset_
 
 ⭐️ From [kronset](https://github.com/kronset)
